@@ -1,0 +1,6 @@
+C:\Users\Flavitach\source\repos\calcapp\bin\Release\calcapp.exe.config
+C:\Users\Flavitach\source\repos\calcapp\bin\Release\calcapp.exe
+C:\Users\Flavitach\source\repos\calcapp\bin\Release\calcapp.pdb
+C:\Users\Flavitach\source\repos\calcapp\obj\Release\calcapp.csproj.CoreCompileInputs.cache
+C:\Users\Flavitach\source\repos\calcapp\obj\Release\calcapp.exe
+C:\Users\Flavitach\source\repos\calcapp\obj\Release\calcapp.pdb

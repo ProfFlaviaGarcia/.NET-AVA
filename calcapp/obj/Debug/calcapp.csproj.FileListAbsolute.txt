@@ -1,0 +1,7 @@
+C:\Users\Flavitach\source\repos\calcapp\bin\Debug\calcapp.exe.config
+C:\Users\Flavitach\source\repos\calcapp\bin\Debug\calcapp.exe
+C:\Users\Flavitach\source\repos\calcapp\bin\Debug\calcapp.pdb
+C:\Users\Flavitach\source\repos\calcapp\obj\Debug\calcapp.csproj.AssemblyReference.cache
+C:\Users\Flavitach\source\repos\calcapp\obj\Debug\calcapp.csproj.CoreCompileInputs.cache
+C:\Users\Flavitach\source\repos\calcapp\obj\Debug\calcapp.exe
+C:\Users\Flavitach\source\repos\calcapp\obj\Debug\calcapp.pdb
